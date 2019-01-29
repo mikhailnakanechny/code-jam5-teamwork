@@ -4,4 +4,7 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 
-// You can delete this file if you're not using it
+// // You can delete this file if you're not using it  code-jam5-test
+// module.exports = {
+//     pathPrefix: "/code-jam5-test",
+// }
